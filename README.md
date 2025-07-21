@@ -20,9 +20,6 @@
 ### Desktop Preview
 <img src="./Assets/exp-tracker-destop-preview.png" alt="">
 
-### Mobile Preview
-<img height="600px" src="./Assets/exp-tracker-mobile.png" alt="">
-
 ---
 
 
@@ -102,8 +99,4 @@ This project wouldn't be possible without the following:
 
 ---
 
-## Contact
-
-- Manik Maity -[manikmaity010@gmail.com]
-- [My LinkedIn](https://www.linkedin.com/in/manikmaity/)
 
